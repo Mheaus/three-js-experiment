@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "your-custom-domain/static/css/main.ae20231e.chunk.css",
-    "main.js": "your-custom-domain/static/js/main.3d403e8d.chunk.js",
-    "main.js.map": "your-custom-domain/static/js/main.3d403e8d.chunk.js.map",
-    "runtime~main.js": "your-custom-domain/static/js/runtime~main.ffbc48b2.js",
-    "runtime~main.js.map": "your-custom-domain/static/js/runtime~main.ffbc48b2.js.map",
-    "static/js/2.216fe1e2.chunk.js": "your-custom-domain/static/js/2.216fe1e2.chunk.js",
-    "static/js/2.216fe1e2.chunk.js.map": "your-custom-domain/static/js/2.216fe1e2.chunk.js.map",
-    "index.html": "your-custom-domain/index.html",
-    "precache-manifest.a5a0ded86ef6ef4840bbdb2db25b0358.js": "your-custom-domain/precache-manifest.a5a0ded86ef6ef4840bbdb2db25b0358.js",
-    "service-worker.js": "your-custom-domain/service-worker.js",
-    "static/css/main.ae20231e.chunk.css.map": "your-custom-domain/static/css/main.ae20231e.chunk.css.map"
+    "main.css": "mheaus.github.io/static/css/main.ae20231e.chunk.css",
+    "main.js": "mheaus.github.io/static/js/main.3d403e8d.chunk.js",
+    "main.js.map": "mheaus.github.io/static/js/main.3d403e8d.chunk.js.map",
+    "runtime~main.js": "mheaus.github.io/static/js/runtime~main.3f8c3f05.js",
+    "runtime~main.js.map": "mheaus.github.io/static/js/runtime~main.3f8c3f05.js.map",
+    "static/js/2.216fe1e2.chunk.js": "mheaus.github.io/static/js/2.216fe1e2.chunk.js",
+    "static/js/2.216fe1e2.chunk.js.map": "mheaus.github.io/static/js/2.216fe1e2.chunk.js.map",
+    "index.html": "mheaus.github.io/index.html",
+    "precache-manifest.ffb924e9fe732ed4695b17d498071fe9.js": "mheaus.github.io/precache-manifest.ffb924e9fe732ed4695b17d498071fe9.js",
+    "service-worker.js": "mheaus.github.io/service-worker.js",
+    "static/css/main.ae20231e.chunk.css.map": "mheaus.github.io/static/css/main.ae20231e.chunk.css.map"
   }
 }
