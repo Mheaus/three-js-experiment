@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae20231e.chunk.css",
-    "main.js": "/static/js/main.3d403e8d.chunk.js",
-    "main.js.map": "/static/js/main.3d403e8d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.216fe1e2.chunk.js": "/static/js/2.216fe1e2.chunk.js",
-    "static/js/2.216fe1e2.chunk.js.map": "/static/js/2.216fe1e2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ac1fc12a44f87146bb27b64d407ec712.js": "/precache-manifest.ac1fc12a44f87146bb27b64d407ec712.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ae20231e.chunk.css.map": "/static/css/main.ae20231e.chunk.css.map"
+    "main.css": "/three-js-experiment/static/css/main.ae20231e.chunk.css",
+    "main.js": "/three-js-experiment/static/js/main.3d403e8d.chunk.js",
+    "main.js.map": "/three-js-experiment/static/js/main.3d403e8d.chunk.js.map",
+    "runtime~main.js": "/three-js-experiment/static/js/runtime~main.da305a83.js",
+    "runtime~main.js.map": "/three-js-experiment/static/js/runtime~main.da305a83.js.map",
+    "static/js/2.216fe1e2.chunk.js": "/three-js-experiment/static/js/2.216fe1e2.chunk.js",
+    "static/js/2.216fe1e2.chunk.js.map": "/three-js-experiment/static/js/2.216fe1e2.chunk.js.map",
+    "index.html": "/three-js-experiment/index.html",
+    "precache-manifest.f197f13060f5d1a015b0c92591f2bee7.js": "/three-js-experiment/precache-manifest.f197f13060f5d1a015b0c92591f2bee7.js",
+    "service-worker.js": "/three-js-experiment/service-worker.js",
+    "static/css/main.ae20231e.chunk.css.map": "/three-js-experiment/static/css/main.ae20231e.chunk.css.map"
   }
 }
