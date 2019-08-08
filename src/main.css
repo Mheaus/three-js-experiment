@@ -1,0 +1,27 @@
+:root {
+  font-size: 16px;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  border: 0.25rem solid black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 7rem;
+  left: 2rem;
+  padding: 0.5rem 2rem;
+  position: absolute;
+  text-transform: uppercase;
+  top: 2rem;
+  width: auto;
+}
